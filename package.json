@@ -1,0 +1,14 @@
+{
+  "name": "@feizheng/aws-notes",
+  "version": "1.0.0",
+  "description": "Aws notes.",
+  "homepage": "https://github.com/afeiship/aws-notes",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
