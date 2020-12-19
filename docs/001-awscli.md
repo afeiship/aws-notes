@@ -15,3 +15,4 @@ aws --version
 - https://hub.docker.com/r/amazon/aws-cli
 - https://git.saybot.net/AOC/aoc-teaching-aids/-/tree/master/docker/aws-cli
 - https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-docker.html
+- https://docs.aws.amazon.com/cli/latest/reference/s3/

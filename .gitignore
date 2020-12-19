@@ -11,6 +11,7 @@ package-lock.json
 # vscode
 .vscode
 .history
+.tmp
 
 # python cache
 __pycache__
