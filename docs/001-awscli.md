@@ -11,6 +11,9 @@ aws --version
 # aws-cli/1.18.170 Python/3.8.4 Darwin/19.5.0 botocore/1.19.10
 ```
 
+## mkdir
+> 没有这个命令，其实是直接copy的时候，会自动创建。
+
 ## docker
 - https://hub.docker.com/r/amazon/aws-cli
 - https://git.saybot.net/AOC/aoc-teaching-aids/-/tree/master/docker/aws-cli
